@@ -19,8 +19,8 @@ This implementation is written by Quanlong Zheng at the City University of Hong 
 
 ## Data & Model & Result
 
-The mentioned data and model can be found at [Google Drive]().
-
+<!-- The mentioned data and model can be found at [Google Drive](). -->
+The mentioned data and model will come soon.
 ## test
    
    ```shell
